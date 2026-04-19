@@ -17,7 +17,7 @@ export default function App() {
 
       <div className="album">
         <img
-          src="./public/cover.jpg"
+          src="https://akamai.sscdn.co/uploadfile/letras/albuns/d/d/c/b/4805511776354759.jpg"
           alt="album"
         />
       </div>
